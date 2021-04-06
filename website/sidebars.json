@@ -19,10 +19,10 @@
 			"Network_Description",
 			{
 				"type": "subcategory",
-				"label": "My Example Subcategory",
+				"label": "test",
 				"ids": [
-					"Become_PlatON_Main_Verification",
-					"Become_PlatON_Dev_Verification"
+					"test1",
+					"test2"
 				]
 			}
 		],

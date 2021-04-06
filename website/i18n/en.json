@@ -78,11 +78,11 @@
 			},
 			"Become_PlatON_Main_Verification": {
 				"title": "Become the development network verification node",
-				"sidebar_label": "Become the development network verification node"
+				"sidebar_label": "test1 demo"
 			},
 			"Become_PlatON_Dev_Verification": {
 				"title": "Join the PlatON development network",
-				"sidebar_label": "Join the PlatON development network"
+				"sidebar_label": "test2 demo"
 			},
 			"Verifiable_Computation": {
 				"title": "Verifiable Computation",

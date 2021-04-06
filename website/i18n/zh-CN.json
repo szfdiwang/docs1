@@ -62,11 +62,11 @@
 			},
 			"Become_PlatON_Main_Verification": {
 				"title": "成为主网验证节点",
-				"sidebar_label": "成为主网验证节点"
+				"sidebar_label": "test1示例"
 			},
 			"Become_PlatON_Dev_Verification": {
 				"title": "成为开发网验证节点",
-				"sidebar_label": "成为开发网验证节点"
+				"sidebar_label": "test2示例"
 			},
 			"Verifiable_Computation": {
 				"title": "可验证计算",
