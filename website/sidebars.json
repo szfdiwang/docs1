@@ -2,13 +2,7 @@
 	"docs": {
 		"PlatON Node": [
 			"PlatON_Validation_Introduce",
-			"Network_Description",
-			{
-				"verification": [
-					"Become_PlatON_Main_Verification",
-					"Become_PlatON_Dev_Verification"
-				]
-			}
+			"Network_Description"
 		]
 	}
 }
